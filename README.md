@@ -29,3 +29,16 @@
 * En el editor ponemos la información del readme
 * Una vez escrita vamos a ***commit changes*** y lo hacemos el commit que se nos guardara en nuestro repo
 [![Sin-t-tulo10.png](https://i.postimg.cc/ryfK7k2J/Sin-t-tulo10.png)](https://postimg.cc/Bt1S1R6L)
+## Pull request
+* Abrimos una pull request y seguidamente le damos a ***compare and pull request***
+[![Sin-t-tulo11.png](https://i.postimg.cc/rsZGpR0y/Sin-t-tulo11.png)](https://postimg.cc/FkckWRVw)
+* Miramos los cambios donde podremos apreciar todo
+[![Sin-t-tulo13.png](https://i.postimg.cc/MpmLWdZz/Sin-t-tulo13.png)](https://postimg.cc/bZdgg025)
+[![Sin-t-tulo12.png](https://i.postimg.cc/52y4vYHd/Sin-t-tulo12.png)](https://postimg.cc/3kMQQwCn)
+* Le damos en ***create pull request***
+## Merge nuestro pull request
+* Después de hacer el pull request nos saldrá una opción para hacer el merge. 
+[![Sin-t-tulo14.png](https://i.postimg.cc/Gp5t5Pyj/Sin-t-tulo14.png)](https://postimg.cc/kVW7VbwV)
+* Le damos ***click*** y subimos el merge posteriormente borramos la rama
+[![Sin-t-tulo14.png](https://i.postimg.cc/Gp5t5Pyj/Sin-t-tulo14.png)](https://postimg.cc/kVW7VbwV)
+[![Sin-t-tulo15.png](https://i.postimg.cc/xdpCkGjz/Sin-t-tulo15.png)](https://postimg.cc/zLW56ggz)
